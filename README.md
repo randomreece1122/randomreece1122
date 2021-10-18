@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything in computers from codeimg to graphic design.
 - 🌱 I’m currently learning random things.
 - 💞️ I’m looking to collaborate on helping create things and come up with ideas
-- 📫 How to reach me -through email and phone(419-234-4542)
+- 📫 How to reach me -through phone(419-234-4542)
 
 <!---
 randomreece1122/randomreece1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
